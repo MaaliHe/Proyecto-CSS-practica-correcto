@@ -1,0 +1,62 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: peachpuff;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font: oblique 400 40px/1.5 "seoge UI", sans-serif;
+    color: rgb(230, 16, 98);
+    text-align: center;
+    margin-top:20px;
+    font-size: 50px;
+    letter-spacing: 2px;
+    }
+    p {
+    font: italic 400 16px/1.5 "seoge UI", sans-serif;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    margin-top:20px;
+    font-size: 20px;
+    }
+    img {
+    display: block;
+    margin: 30px auto;
+    width: 150px;
+    height: auto;
+    border-radius: 20px;
+    }
+h2 {
+    font: italic 400 30px/1.5 "seoge UI", sans-serif;
+    color: rgb(230, 16, 98);
+    text-align: center;
+    margin-top:20px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    }
+h3 {
+    font: italic 400 20px/1.5 "seoge UI", sans-serif;
+    color: rgb(230, 16, 98);
+    text-align: center;
+    margin-top:20px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    }
+* {
+    
+}
+section{
+    background-color: lightyellow;
+    width: 100%;
+}
+.tarjeta {
+    background-color: crimson;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    padding: auto;
+}
+image {
+    width: 70px;
+    height: 50px;
+}
